@@ -1,0 +1,124 @@
+/* Start Nav */
+header nav .navbar-collapse .navbar-nav .nav-item .nav-link {
+  font-weight: bolder;
+  color: black;
+}
+
+header nav .navbar-collapse .navbar-nav .nav-item .nav-link.active {
+  color: rgb(253, 185, 51);
+}
+
+/* End Nav */
+
+/* Start Hero Section */
+
+.hero-section {
+  padding-bottom: 2rem;
+}
+
+.hero-content {
+  padding: 6rem 2.5rem 5rem 2.5rem;
+}
+
+.hero-heading {
+  margin-bottom: 12px;
+  letter-spacing: 5px;
+}
+
+.order-online {
+  background-color: rgb(253, 185, 51);
+  padding: 1rem 1.5rem;
+  margin-top: 12px;
+  margin-bottom: 20rem;
+}
+
+.dine-in {
+  background-color: rgb(253, 185, 51);
+  padding: 1rem 1.5rem;
+}
+
+.findout-more-link {
+  background-color: black;
+  padding: 1rem 1.5rem;
+}
+
+.hero-paragraph {
+  margin-bottom: 20px;
+}
+
+/* End Hero Section */
+
+/* Start Special momenten */
+.special-moment {
+  padding: 6rem 4rem 5rem 4rem;
+}
+/* End Special momenten */
+
+/* Start Findout More Section */
+
+.findout-more-section {
+  margin-bottom: 5rem;
+}
+
+.pocket-to-pint {
+  background-color: orange;
+}
+
+/* End Findout More Section */
+
+.beer-day {
+  background-image: url(/images/beer\ toss.png);
+  margin-right: 10px;
+  height: 439px;
+  width: 558px;
+}
+
+.pocket-to-pint {
+  background-image: url(/images/beer\ toss\ 2.png);
+  height: 439px;
+  width: 558px;
+}
+
+/* Start Ingredients Section */
+
+.ingredients-section {
+  padding: 3rem 0rem 3rem 0rem;
+  background-color: rgb(248, 248, 248);
+}
+
+.ingredients-section-division {
+  padding: 0rem 5rem 0rem 5rem;
+}
+
+.ingredient-group {
+  position: relative;
+  top: 20px;
+  margin-bottom: 6rem;
+}
+
+.spice-icon {
+  margin-bottom: 12px;
+}
+
+.spice-name {
+  margin-bottom: 20px;
+}
+
+/* End Ingredients Section */
+
+/* Start General Styles */
+
+a {
+  list-style: none;
+  text-decoration: none;
+}
+
+i {
+  color: rgb(253, 185, 51);
+}
+
+.beer-day-text {
+  letter-spacing: 10px;
+}
+
+/* End General Styles */
