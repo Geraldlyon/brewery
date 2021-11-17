@@ -17,7 +17,7 @@ header nav .navbar-collapse .navbar-nav .nav-item .nav-link.active {
   background-image: url("../images/hero\ image.png");
   /* background-color: #cccccc; */
   height: 736px; /* You must set a specified height */
-  width: 100vw;
+  /* width: 100vw; */
   background-position: center; /* Center the image */
   background-size: cover; /* Resize the background image to cover the entire container */
   background-repeat: no-repeat; /* Do not repeat the image */
@@ -92,9 +92,10 @@ header nav .navbar-collapse .navbar-nav .nav-item .nav-link.active {
 .beer-day {
   background-image: url(/images/beer\ toss.png);
   /* margin-right: 5px; */
-  padding: 0px 2px 0px 0px;
+  /* padding: 0px 2px 0px 0px; */
   height: 440px;
-  background-color: #cccccc; /* Used if the image is unavailable */
+  /* width: 100%; */
+  /* background-color: #cccccc; */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: contain; /* Resize the background image to cover the entire container */
@@ -102,9 +103,10 @@ header nav .navbar-collapse .navbar-nav .nav-item .nav-link.active {
 
 .pocket-to-pint {
   background-image: url(/images/beer\ toss\ 2.png);
-  padding: 0px 0px 0px 2px;
+  /* padding: 0px 0px 0px 2px; */
   height: 440px;
-  background-color: #cccccc; /* Used if the image is unavailable */
+  /* width: 100%; */
+  /* background-color: #cccccc; */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: contain; /* Resize the background image to cover the entire container */
