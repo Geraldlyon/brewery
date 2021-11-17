@@ -14,12 +14,12 @@ header nav .navbar-collapse .navbar-nav .nav-item .nav-link.active {
 
 .hero-section {
   /* padding-bottom: 2rem; */
-  background-image: url("/css/hero\ image.png");
-  background-color: #cccccc; /* Used if the image is unavailable */
+  background-image: url("../images/hero\ image.png");
+  /* background-color: #cccccc; */
   height: 736px; /* You must set a specified height */
   background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
+  background-repeat: no-repeat; /* Do not repeat the image */
 }
 
 .hero-section-content {
