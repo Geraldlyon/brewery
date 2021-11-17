@@ -90,7 +90,7 @@ header nav .navbar-collapse .navbar-nav .nav-item .nav-link.active {
 /* End Findout More Section */
 
 .beer-day {
-  background-image: url(/images/beer\ toss.png);
+  background-image: url("../images/beer\ toss.png");
   /* margin-right: 5px; */
   /* padding: 0px 2px 0px 0px; */
   height: 440px;
@@ -102,7 +102,7 @@ header nav .navbar-collapse .navbar-nav .nav-item .nav-link.active {
 }
 
 .pocket-to-pint {
-  background-image: url(/images/beer\ toss\ 2.png);
+  background-image: url("../images/beer\ toss\ 2.png");
   /* padding: 0px 0px 0px 2px; */
   height: 440px;
   /* width: 100%; */
@@ -164,12 +164,12 @@ header nav .navbar-collapse .navbar-nav .nav-item .nav-link.active {
 /* Start Where to get it section */
 
 .about-us-section {
-  background-image: url(/images/about\ bg\ img.png);
-  background-color: #cccccc; /* Used if the image is unavailable */
+  background-image: url("../images/about\ bg\ img.png");
+  /* background-color: #cccccc;  */
   height: 800px; /* You must set a specified height */
   background-position: center; /* Center the image */
+  background-size: cover;
   background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 .about-us-main-division {
