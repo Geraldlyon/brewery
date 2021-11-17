@@ -17,6 +17,7 @@ header nav .navbar-collapse .navbar-nav .nav-item .nav-link.active {
   background-image: url("../images/hero\ image.png");
   /* background-color: #cccccc; */
   height: 736px; /* You must set a specified height */
+  width: 100vw;
   background-position: center; /* Center the image */
   background-size: cover; /* Resize the background image to cover the entire container */
   background-repeat: no-repeat; /* Do not repeat the image */
@@ -27,10 +28,10 @@ header nav .navbar-collapse .navbar-nav .nav-item .nav-link.active {
   top: 80px;
 }
 
-.more-info-text {
+/* .more-info-text {
   position: relative;
   top: 150px;
-}
+} */
 
 .hero-content {
   padding: 6rem 2.5rem 5rem 2.5rem;
