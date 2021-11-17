@@ -231,3 +231,72 @@ i {
 }
 
 /* End General Styles */
+
+/* Start Media Queries */
+
+/* On screens that are 992px wide or less, go from four columns to two columns */
+@media screen and (max-width: 768px) {
+  .company-contact-info {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+
+  .special-momenten-heading {
+    font-size: 18px;
+    font-weight: bolder;
+  }
+
+  .special-momenten-subheading {
+    font-size: 16px;
+  }
+
+  .special-moment {
+    padding-bottom: 1rem;
+  }
+
+  .special-momenten-subheading p {
+  }
+
+  .beer-day {
+    margin-bottom: 0;
+  }
+
+  .pocket-to-pint {
+    margin-top: -85px;
+  }
+
+  .pocket-to-pint-subdiv {
+    position: relative;
+    top: 100px;
+  }
+
+  .circles {
+    display: flex;
+    flex-direction: column;
+    text-align: center !important;
+    padding: 0;
+    justify-content: center;
+    margin: 0;
+  }
+
+  .circle-1 {
+    position: relative;
+    left: 22vw;
+    margin-bottom: 1rem;
+  }
+
+  .circle-2 {
+    position: relative;
+    left: 21vw;
+  }
+
+  .logo-division {
+    margin-bottom: 20px;
+  }
+
+  .quick-links-section {
+    margin-bottom: 20px;
+  }
+}
+
+/* End Media Queries */
